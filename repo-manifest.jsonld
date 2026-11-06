@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cheeseshop/commit/70b7023e8df78d1e9c3dc0119b885681bcbeff8e",
       "git:hexsha": "70b7023e8df78d1e9c3dc0119b885681bcbeff8e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cheeseshop/commit/0678d262f2d772be67cef18b804401d75e044416",
