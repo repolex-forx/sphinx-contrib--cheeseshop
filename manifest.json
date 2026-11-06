@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "cheeseshop",
+  "versions": [
+    {
+      "commit": "70b7023e8df78d1e9c3dc0119b885681bcbeff8e",
+      "parsed_at": "2026-11-06T08:27:44.611343+00:00",
+      "filetree": "filetree/70b7023e8df78d1e9c3dc0119b885681bcbeff8e.nq.gz",
+      "blobs": [
+        "blob/a4bdf594c072a9d5f0d33f9df753f41e939adac8.nq.gz",
+        "blob/a0cacc5a423d1686cc538cf2737d62be50d8c577.nq.gz",
+        "blob/8ac5e390cd6725e7b2cdafd84299e736d7d082a6.nq.gz",
+        "blob/e25b012010e2ff4d8c7e22b50202634ecaf61c7a.nq.gz",
+        "blob/712d5e6cec772808f5154eb128de6309c82ead55.nq.gz",
+        "blob/8846e947fa5239ce25a3d990060f65639a46570d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
